@@ -1,5 +1,5 @@
-# Shivam_resume
-Online resume of shivam pandey
+# ANURAG PANADEY
+Online resume 
 
 <h4>Resume available at: </h4>
-<a href="https://uchihabloodline.github.io/Shivam_resume/">here</a>
+<a href="">here</a>
